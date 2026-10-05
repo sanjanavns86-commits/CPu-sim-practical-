@@ -20,4 +20,4 @@ Create a Machine (Basic Computer Architecture)
 <br>Sum Until a Negative Number</br>
 <br>Sum Until Zero</br>
 Purpose
-##To understand computer architecture and instruction execution through practical work.##
+To understand computer architecture and instruction execution through practical work.
