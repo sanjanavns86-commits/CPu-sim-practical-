@@ -9,15 +9,15 @@ This repository contains my Computer System Architecture lab practicals using CP
 
 Practicals
 Create a Machine (Basic Computer Architecture) 
-**Create the Fetch Routine
-**Addition of Two Numbers
-**Subtraction of Two Numbers
-**Logical Operations
-**Memory-Reference Instructions
-**Register-Reference Instructions
-**Additional Register-Reference Instructions
-**Circular Shift Instructions
-**Sum Until a Negative Number
-**Sum Until Zero
-**Purpose
+<br>Create the Fetch Routine</br>
+<br>Addition of Two Numbers</br>
+<br>Subtraction of Two Numbers</br>
+Logical Operations
+Memory-Reference Instructions
+Register-Reference Instructions
+Additional Register-Reference Instructions
+Circular Shift Instructions
+Sum Until a Negative Number
+Sum Until Zero
+Purpose
 ##To understand computer architecture and instruction execution through practical work.##
