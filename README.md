@@ -12,12 +12,12 @@ Create a Machine (Basic Computer Architecture)
 <br>Create the Fetch Routine</br>
 <br>Addition of Two Numbers</br>
 <br>Subtraction of Two Numbers</br>
-Logical Operations
-Memory-Reference Instructions
-Register-Reference Instructions
-Additional Register-Reference Instructions
-Circular Shift Instructions
-Sum Until a Negative Number
-Sum Until Zero
+<br>Logical Operations</br>
+<br>Memory-Reference Instructions</br>
+<br>Register-Reference Instructions</br>
+<br>Additional Register-Reference Instructions</br>
+<br>Circular Shift Instructions</br>
+<br>Sum Until a Negative Number</br>
+<br>Sum Until Zero</br>
 Purpose
 ##To understand computer architecture and instruction execution through practical work.##
